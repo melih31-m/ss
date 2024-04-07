@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="KanalD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a4/Kanal_D_logo.png?20210127200731" group-title="Kanal",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/250px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Kanal",NOW
+http://731035411709815845.ofsix0405.xyz:80/play/mi91431/sGvhFmWEKN3/815845.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/200px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Kanal",TRT HABER
+http://731035411709341061.ofsix0405.xyz:80/play/mi91431/sGvhFmWEKN3/341061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kral Sakir" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/d9/Kral%C5%9Eakir_logo.jpg/250px-Kral%C5%9Eakir_logo.jpg" group-title="Kanal",Kral Sakir
+http://731035411709809159.ofsix0405.xyz:80/play/mi91431/sGvhFmWEKN3/809159.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bein_movies.png/250px-Bein_movies.png" group-title="Kanal",BEIN MOVIES TURK 
+http://731035411709809159.ofsix0405.xyz:80/play/mi91431/sGvhFmWEKN3/809159.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/145px-StarTV.svg.png" group-title="Kanal",Star TV
+http://731035411709686619.ofsix0405.xyz:80/play/mi91431/sGvhFmWEKN3/686619.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/150px-Atv_logo_2010.svg.png" group-title="Kanal",ATV
+http://731035411709686565.ofsix0405.xyz:80/play/mi91431/sGvhFmWEKN3/686565.ts
